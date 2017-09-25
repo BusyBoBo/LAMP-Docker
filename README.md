@@ -5,10 +5,13 @@
 ```bash
 git clone https://github.com/Mr-Linus/LAMP-Docker.git 
 cd LAMP-Docker
-docker-compose up -d
 ```
 ### 单机
 ```bash
-docker-compose up -d #启动集群
-#docker-compose down #关闭集群
+#启动集群
+docker-compose up -d 
+#关闭集群
+docker-compose down 
+#查看集群日志
+docker-compose logs
 ```
