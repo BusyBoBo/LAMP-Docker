@@ -1,9 +1,3 @@
-How to use
+# LAMP-Docker
 
-```bash
-git clone https://github.com/naga3/docker-lamp.git
-cd docker-lamp/
-docker-compose up -d
-```
-# LAMP-Docker
-# LAMP-Docker
+
